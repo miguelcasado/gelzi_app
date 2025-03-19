@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288228845206",
+    "project_id": "gelzi-app",
+    "storage_bucket": "gelzi-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288228845206:android:29758d65c252dad03844b7",
+        "android_client_info": {
+          "package_name": "app.gelzi.gelziapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288228845206-umhp9pr22mktvep71b723rf7aldv1tkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.gelzi.gelziapp",
+            "certificate_hash": "f7bc18270779203fe91721a96dcaee96ff523aaa"
+          }
+        },
+        {
+          "client_id": "288228845206-mn8f7snuinddgtej0vmkmr9hpkga3o2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhU6AXZdgbTiBITip2HBalPdkzdqJo00M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288228845206-mn8f7snuinddgtej0vmkmr9hpkga3o2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
